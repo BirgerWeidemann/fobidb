@@ -28,7 +28,7 @@ Projektdokumentation
       Notizen für weiteres:
         Wir haben durch eine Teambesprechung und Reflektion erneut Motivation gefunden in diesem Projekt 80% von unserem besten zu geben.
         Wir haben Aufgaben und zukünftige Umsetzungen besprochen und diese zeitlich aufgeteilt.
-        
+        Mit Motivation und etwas bessere Struktur sehen wir uns am 30.05. wieder und machen weiter.
          
       
     30.05.2025
