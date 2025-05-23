@@ -30,7 +30,17 @@ Projektdokumentation
         Wir haben Aufgaben und zukünftige Umsetzungen besprochen und diese zeitlich aufgeteilt.
         Mit Motivation und etwas bessere Struktur sehen wir uns am 30.05. wieder und machen weiter.
          
-      
+
+    23.05.2025
+      Projektdokumentation begonnen
+          Einleitung wie Projektziel, Projektbegründung etc
+      Präsentation mit Gamma erstellt
+          Grundgerüst, Design erstellt
+      Quellcode Struktur erweitert
+          Zugriffstruktur hinzugefügt, 
+          sodass auf die Inhalte der Datenbank der Fortbildungveranstaltungen zugegriffen werden können 
+
+    
     30.05.2025
     
       Notizen für weiteres:
