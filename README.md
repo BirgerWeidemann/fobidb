@@ -47,6 +47,7 @@ Projektdokumentation
         Projektabgrenzung struktur hinzugefügt
         Projektphasen und zeitlicher Ablauf begonnen niederzuschreiben
     Präsentation überarbeitet
+    Statische HTML website hinzugefügt und abgeschlossen
     
       Notizen für weiteres:
 
