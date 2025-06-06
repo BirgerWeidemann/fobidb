@@ -42,12 +42,17 @@ Projektdokumentation
 
     
     30.05.2025
+    Planung der nächsten Arbeitsschritte
+    Dokumentation fortgeführt
+        Projektabgrenzung struktur hinzugefügt
+        Projektphasen und zeitlicher Ablauf begonnen niederzuschreiben
+    Präsentation überarbeitet
     
       Notizen für weiteres:
 
         
     06.05.2025
-    
+      
       Notizen für weiteres:
 
         
